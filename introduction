@@ -1,0 +1,41 @@
+VANTAGENS DO MYSQL: 
+- Aprendizado
+- Portabilidade
+- Longevidade
+- Comunicação
+- Liberdade de Escolha
+
+DESVANTAGENS:
+- Falta de criatividade
+- Falta de estruturação
+
+
+Um banco de dados relacional é um conjunto de informações que organiza dados em relações predefinidas, em que os dados são armazenados em uma ou mais tabelas (ou "relações") de colunas e linhas,
+facilitando a visualização e a compreensão de como as diferentes estruturas de dados se relacionam.
+
+
+O principal objetivo da linguagem SQL é padronizar a maneira como os registros são consultados nos bancos de dados relacionais.
+Atualmente, os bancos relacionais aderem ao padrão SQL, que vai além das consultas: é usado também, na criação, alteração, estruturação
+e manipulação do banco de dados,  além da maneira como banco de dados interage com a segurança, entre outros usos.
+
+
+o ANSI (da sigla American National Standard Institute), estabeleceu alguns padrões para as consultas dos bancos de dados relacionais
+
+
+COMANDOS:
+
+- DDL
+  DDLs, ou Data Definition Language (linguagem de definição de dados). Os DDLs são a parte da linguagem SQL que permite a manipulação das estruturas do banco de dados. 
+  Como, por exemplo, criar um banco, tabelas, índices, apagar as tabelas e alterar a política de crescimento de índice. 
+  Ou seja, os comandos que envolvem a estrutura do banco de dados relacionais são os comandos do tipo DDL.
+
+
+- DML
+  DML, ou Data Manipulation Language (linguagem de manipulação de dados). Esse grupo visa gerenciar os dados: incluindo, alterando e excluindo informações nas estruturas do banco, como as tabelas.
+  Além disso, realizam as consultas, buscam as informações das estruturas e exibem para o usuário.
+
+
+- DCI
+  DCL, ou Data Control Language ("linguagem de controle de dados"). Este grupo nos permite administrar o banco de dados como, por exemplo, o controle de acesso, o gerenciamento do usuário, gerenciar 
+  o que cada usuário(a) pode ou não visualizar, gerenciar o banco ao nível de estrutura (como a política de crescimento, como e onde será armazenado no disco), administrar os processos, 
+  saber quantos processos estão sendo executados, controle de log e assim por diante.
